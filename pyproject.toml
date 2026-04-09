@@ -15,4 +15,8 @@ dependencies = [
 dev = [
   "ipdb",
   "ipython",
+  "bumpver",
+  "pytest",
+  "pytest-cov",
+  "pre-commit",
 ]
